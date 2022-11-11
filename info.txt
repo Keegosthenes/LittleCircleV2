@@ -1,0 +1,21 @@
+
+---------------------------------------------------------------------------------------
+DEBUT DU PROJET 14/05/2020
+
+Dorian MAGDELAINE (Keego)
+
+PREMIERE VERSION JOUABLE DU PROJET (V1) 19/05/2020
+
+V.2 DU PROJET : 20/06/2020
+
+                    PATCH NOTE (V.2):
+                                
+                            -Ajout de 5 niveaux supplémentaire (6 niveaux au total)
+                            -Ajout d'un menu de sélection de niveau
+                            -Jeux optimimisé techniquement
+                            -Réglage d'un bug qui selon la puissance du PC, rendait le jeux plus ou moins rapide
+                            -Suppression de code inutile et de texture inutile dans les fichiers du jeux
+                            -Ajout du boutton Espace dans le jeux pour y jouer également sur clavier
+                            -Difficulté augmenter pour le niveau d'origine qui devient le niveau 5
+                            -Ajout de musique et sound effect
+                            -Fichier de sauvegarde de progression ajouté
